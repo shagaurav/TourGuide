@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <!-- short app name-->
+    <string name="app_short_name">TG!</string>
+
+    <!-- Content description for Image in the activity_main-->
+    <string name="content_description">Image View for splash screen</string>
+
+    <!-- Content description for Image in the list item-->
+    <string name="content_description_lists">Image View for list</string>
+
+    <!-- Food kake_da_hotel  [CHAR LIMIT=12] -->
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+
+    <!-- Food Kake Da Hotel  [CHAR LIMIT=20] -->
+    <string name="food_kake_da_hotel">Kake Da Hotel</string>
+    <string name="food_kake_da_hotel_description">Always busy and bustling with a constant stream of customers flowing in and checking out,
+        this iconic restaurant-cum-dhaba in CP is know for it delectable desi food.</string>
+    <string name="food_kake_da_hotel_address">67, Municipal Market, Connaught Circle, Connaught Place, New Delhi</string>
+    <string name="food_kake_da_hotel_phone"> 011 23411580</string>
+    <string name="food_kake_da_hotel_schedule">Mon-Sun, 12–11:30PM</string>
+    <string name="food_price_kake_da_hotel">Budget Eats</string>
+
+    <!-- Food Rajinder Da Dhaba  [CHAR LIMIT=20] -->
+    <string name="food_rajinder_da_dhaba_name">Rajinder Da Dhaba</string>
+    <string name="food_rajinder_da_dhaba_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
+    <string name="food_rajinder_da_dhaba_address">AB-14B, Nauroji Nagar Marg, Opposite, Safdarjung Enclave, New Delhi, Delhi 110029</string>
+    <string name="food_rajinder_da_dhaba_phone">+91 011 2610 0355</string>
+    <string name="food_rajinder_da_dhaba_schedule">\"Mon-Sun 5pm–11pm</string>
+
+    <!-- Food moti mahal  [CHAR LIMIT=12] -->
+    <string name="food_moti_mahal_name">The Legendary Moti Mahal</string>
+    <string name="food_moti_mahal_description">Credited with the trailblazing turn-around of Moti Mahal, from being a small but iconic presence in Delhi,
+        to becoming a Multi-national Corporation that is well on its way to defining how the world eats Indian food.</string>
+    <string name="food_moti_mahal_address">157, Kapil Vihar, Pitampura, Opposite Metro Pillar no.355, NEW DELHI</string>
+    <string name="food_moti_mahal_phone">+91 9810029767</string>
+    <string name="food_moti_mahal_schedule">Mon-Sun, 11:30AM–11:30PM</string>
+
+    <!-- Food Burger Factory  [CHAR LIMIT=12] -->
+    <string name="food_burger_factory_name">Food Burger Factory</string>
+    <string name="food_burger_factory_description">Eclectically decorated restaurant for a wide variety of burgers in a casual setting.</string>
+    <string name="food_burger_factory_address">Soranto Vaddo, Anjuna Mapusa Rd, Anjuna, Goa 403509</string>
+    <string name="food_burger_factory_phone">+91 090756 40690</string>
+    <string name="food_burger_factory_schedule">Mon-Sun, 11:30AM–3:30PM, 6:30PM–10:30PM</string>
+
+
+    <!-- Food Blind Ch3mistry  [CHAR LIMIT=12] -->
+    <string name="food_blind_name">Blind Ch3mistry</string>
+    <string name="food_blind_description">Driven by passion to surprise customer’s senses every time, Blind Ch3mistry,
+        a progressive venture of 21 N 21 Food Ventures LLP is a luxury brand loved for its innovative and coolest variety of milkshakes.</string>
+    <string name="food_blind_address">M 7/2, 4th Main Rd, Besant Nagar, Chennai, Tamil Nadu 600091</string>
+    <string name="food_blind_phone">+91 099621 56659</string>
+    <string name="food_blind_schedule">Mon-Sun 12PM–11PM</string>
+
+    <!-- Food Aunty's Kitchen  [CHAR LIMIT=12] -->
+    <string name="food_auntys_kitchen_name">Auntys Kitchen</string>
+    <string name="food_auntys_kitchen_description">Auntys kitchen is located in middle bazar of Shimla and is known for its Momos throughout Shimla. </string>
+    <string name="food_auntys_kitchen_address"> 5, 44/31, Middle Bazar, Gunj Bazar, Shimla, Himachal Pradesh 171001</string>
+    <string name="food_auntys_kitchen_phone">+91 0177 280 7262</string>
+    <string name="food_auntys_kitchen_schedule">Mon-Sun, 11AM–9:30PM</string>
+
+    <!-- Food Casa Bella Vista  [CHAR LIMIT=12] -->
+    <string name="food_casa_bella_vista_name">Casa Bella Vista</string>
+    <string name="food_casa_bella_vista_description">Vegetarian Spanish restaurant with wood-fired pizza oven at Himalayan holiday cottage complex.</string>
+    <string name="food_casa_bella_vista_address"> Log Huts Road, Manali, Himachal Pradesh 175131</string>
+    <string name="food_casa_bella_vista_phone">+91 98154 44488</string>
+    <string name="food_casa_bella_vista_schedule">Mon-Sun, 11:30AM–11:30PM</string>
+
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
+        It is very convenient when travelling since most of the hotels have limited internet access.
+        It works even in the subway!</string>
+
+    <!-- Adventure Siang Valley  [CHAR LIMIT=12] -->
+    <string name="info_konbini_name">Convenience stores</string>
+    <string name="info_konbini_description">Did you forget your toothbrush? Are you jet-lagged
+        and need a coffee fix at 4am?
+        \n\nYou need a konbini, a convenience store that is open 24/7. Here you will find from
+        food and drinks, to first necessity articles.
+        \n\nSome known konibini chains are:
+        \n- Lawson
+        \n- 7-Eleven
+        \n- FamilyMart
+        \n- Daily</string>
+    <string name="info_transport_name">Suica Prepaid Train Card</string>
+    <string name="info_transport_description">The Suica card is a prepaid smart card that
+        allows you to use most public transport (metro, trains, buses, monorail) in Japan.
+        The card is debited for every trip or purchase you make when you touch the card
+        to the reader.
+        \n\nThe Suica card was created by JR East, but can also be used throughout Japan
+        on the other prepaid card networks like Pasmo.</string>
+
+    <!-- Adventure Siang Valley  [CHAR LIMIT=12] -->
+    <string name="siang_name">Siang Valley Trekking</string>
+    <string name="siang_description">An exhilarating trek of 11 days in this mystique valley of Arunachal Pradesh is all about exploring and discovering the opulent nature of the state.</string>
+    <string name="siang_address">Siang Valley, Arunachal Pradesh</string>
+    <string name="siang_phone">Contact local event adventures centres</string>
+    <string name="siang_schedule">The best season to visit West Siang is the winter season and onset of summers that lasts from October to April.</string>
+
+    <!-- Adventure Kaziranga National Park  [CHAR LIMIT=20] -->
+    <string name="kaziranga_name">Kaziranga National Park</string>
+    <string name="kaziranga_description">Kaziranga National Park situated in Assam state of India,
+        is a UNESCO world heritage sites of India and known for Great Indian one horned Rhinoceros.</string>
+    <string name="kaziranga_address">Kanchanjuri, Assam</string>
+    <string name="kaziranga_phone">+91 03776 268 095</string>
+    <string name="kaziranga_schedule">The Park is open daily from 1st November to 30th April i.e., for 6 (six) months</string>
+
+    <!-- Adventure Under Water Walk  [CHAR LIMIT=20] -->
+    <string name="under_water_name">Under Water Walk</string>
+    <string name="under_water_description">Explore the under water marine life with trained and certified staff in Indias first and only adventurous Underwater Sea Walk facility in Goa.</string>
+    <string name="under_water_address">Goa Baina Beach</string>
+    <string name="under_water_phone">contact local adventure centres</string>
+    <string name="under_water_schedule">for 12 months but not on rainy or stormy whether</string>
+
+    <!-- Motorcycle Trip to Rann of Kutch  [CHAR LIMIT=20] -->
+    <string name="motorcycle_trip_name">Motorcycle Trip to Rann of Kutch</string>
+    <string name="motorcycle_trip_description">>Little desert of Kutch is a salt marsh located near the Great Rann of Kutch in Kutch district, Gujarat, India.</string>
+    <string name="motorcycle_trip_address">Rann of Kutch, Gujarat</string>
+    <string name="motorcycle_trip_phone">Contact local event adventures centres</string>
+    <string name="motorcycle_trip_schedule">Best time to go, November to March (Rann Utsav is from December to March).</string>
+
+    <!-- Paragliding in Bir  [CHAR LIMIT=20] -->
+    <string name="paragliding_name">Paragliding in Bir</string>
+    <string name="paragliding_description">Bir-Billing is the best spot for Tandem Paragliding sessions in Himachal Pradesh, India.</string>
+    <string name="paragliding_address">Bir-Billing, Himachal Pradesh, India.</string>
+    <string name="paragliding_phone">Contact local event adventures centres</string>
+    <string name="paragliding_schedule">March to May and October – November</string>
+
+    <!-- Deotibba Hampta Pass  [CHAR LIMIT=20] -->
+    <string name="deotibba_name">Deotibba Hampta Pass</string>
+    <string name="deotibba_description">Hampta Pass is one of the most delightful treks in the Manali region.</string>
+    <string name="deotibba_address">Deo Tibba, Himachal Pradesh</string>
+    <string name="deotibba_phone">Contact local event adventures centres</string>
+    <string name="deotibba_schedule">Best Time to Visit Deo Tibba Trek. During the early months of the year,
+        there are chances of snow on high passes, which considerably melts by August.</string>
+
+    <!-- Bara Bhangal Trek  [CHAR LIMIT=20] -->
+    <string name="bara_name">Bara Bhangal Trek</string>
+    <string name="bara_description">Bara Bhangal Trek is one of the toughest and longest treks in Himachal Pradesh that can be recommended for enthusiastic trekkers.</string>
+    <string name="bara_address">Bara BhangalHimachal Pradesh</string>
+    <string name="bara_phone">Contact local event adventures centres</string>
+    <string name="bara_schedule">Best time to visit May-Sep.</string>
+
+    <!-- Rafting in Kashmir  [CHAR LIMIT=20] -->
+    <string name="rafting_name">Rafting in Kashmir</string>
+    <string name="rafting_description">There are so many things to do in Jammu and Kashmir but nothing more challenging than rafting in the white waters of the many rivers that cut through the state of Jammu and Kashmir.
+        The two most famous rivers where you can go for this extreme sport is River Indus and Zanskar river.</string>
+    <string name="rafting_address">Jammu and Kashmir</string>
+    <string name="rafting_phone">Contact local event adventures centres</string>
+    <string name="rafting_schedule">Between the end of June and late August.</string>
+
+    <!-- Camping in Coorg  [CHAR LIMIT=20] -->
+    <string name="camping_name">Camping in Coorg</string>
+    <string name="camping_description">Camping in Coorg sounds like a wonderful choice.
+        Coorg is full of hazy hills, lush dense forest, tea and coffee plantation, orange groves, undulating streets.</string>
+    <string name="camping_address">Kodagu district, Karnataka</string>
+    <string name="camping_phone">Contact local event adventures centres</string>
+    <string name="camping_schedule">October to March is the best time</string>
+
+    <!-- Taj Mahal  [CHAR LIMIT=12] -->
+    <string name="sight_taj_mahal_name">Taj Mahal</string>
+    <string name="sight_taj_mahal_description">Museum showcasing the work of the Japanese animation studio Studio Ghibli.</string>
+    <string name="sight_taj_mahal_address">Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001</string>
+    <string name="sight_taj_mahal_phone">Govt. of India Tourism Office 191, Mall Road, Agra Ph. +91 562 2226368</string>
+    <string name="sight_taj_mahal_schedule">Daytime: 06:00 am to 06:30 pm, Nighttime: 08:30 pm to 12:30 am.</string>
+    <string name="sight_taj_mahal_price">The cost is 650 rupees for Indians and 3,000 rupees for foreigners.</string>
+
+    <!-- Red Fort  [CHAR LIMIT=12] -->
+    <string name="sight_red_fort_name">Red Fort</string>
+    <string name="sight_red_fort_description">The Red Fort is a historical fortification in the national capital of New Delhi.
+        Located in the center of the city. The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan..</string>
+    <string name="sight_red_fort_address">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi</string>
+    <string name="sight_red_fort_phone">+91 11 23277705</string>
+    <string name="sight_red_fort_schedule">All days of the week except Monday, 9:30 AM - 4:30 PM</string>
+    <string name="sight_red_fort_free">35 rupees per person for Indians and 500 rupees per person for foriegners</string>
+
+    <!-- Dudhsagar Falls  [CHAR LIMIT=12] -->
+    <string name="sight_goa_name">Dudhsagar Falls</string>
+    <string name="sight_goa_description">3-streamed waterfall, named for its milky waters, with swimming pools surrounded by forest.</string>
+    <string name="sight_goa_address">Sonaulim, Goa 403410</string>
+    <string name="sight_goa_phone">+91 832 2437132, 2437728, 2438515, 2438866 </string>
+    <string name="sight_goa_schedule">Calangute and Punjim: Wed, Sat and Sun, 6:30AM</string>
+    <string name="sight_goa_free">2300 Rupees</string>
+
+
+    <!-- Manali  [CHAR LIMIT=12] -->
+    <string name="sight_manali_name">Koishikawa Korakuen Garden</string>
+    <string name="sight_manali_description">Manali is a high-altitude Himalayan resort town in India’s northern Himachal Pradesh state.
+        Set on the Beas River, it’s a gateway for skiing in the Solang Valley and trekking in Parvati Valley.
+        It's also a jumping-off point for paragliding, rafting and mountaineering in the Pir Panjal mountains, home to 4,000m-high Rohtang Pass.</string>
+    <string name="sight_manali_address">Manali, Himachal Pradesh</string>
+    <string name="sight_manali_phone">Search on web and Contact locals</string>
+    <string name="sight_manali_price">free</string>
+    <string name="sight_manali_schedule">Opened 24 hours</string>
+
+    <!-- The Golden Temple  [CHAR LIMIT=12] -->
+    <string name="sight_the_golden_temple_name">The Golden Temple</string>
+    <string name="sight_the_golden_temple_description">The most sacred of Sikh shrines, the Golden Temple, is a major pilgrimage destination for devotees from around the world,
+        as well as, an ever increasing popular tourist attraction.</string>
+    <string name="sight_the_golden_temple_address">Clock Tower Building, Golden Temple Rd, Gandhi Nagar, Atta Mandi, Katra Ahluwalia, Amritsar Cantt., Punjab 143006</string>
+    <string name="sight_the_golden_temple_phone">+91 0172 5042955</string>
+    <string name="sight_the_golden_temple_schedule">Opened 24 hours</string>
+    <string name="sight_the_golden_temple_price">free</string>
+
+
+    <!-- Shimla  [CHAR LIMIT=12] -->
+    <string name="sight_shimla_name">Shimla</string>
+    <string name="sight_shimla_description">Himachal Pradesh capital known for colonial architecture, Himalayan views and shopping on the mall.</string>
+    <string name="sight_shimla_address">Located in the middle ranges of the Himalayas</string>
+    <string name="sight_shimla_phone">Search on web and Contact locals</string>
+    <string name="sight_shimla_schedule">Always open</string>
+    <string name="sight_shimla_price">free</string>
+
+
+    <!-- Chennai  [CHAR LIMIT=12] -->
+    <string name="sight_marina_name">Marina Beach</string>
+    <string name="sight_marina_description">Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, </string>
+    <string name="sight_marina_address">Chennai (Madras), Tamil Nadu, India</string>
+    <string name="sight_marina_phone">Search on web and Contact locals</string>
+    <string name="sight_marina_schedule">Open round the clock</string>
+    <string name="sight_marina_price">free</string>
+</resources>
