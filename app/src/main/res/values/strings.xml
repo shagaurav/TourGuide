@@ -10,12 +10,13 @@
     <!-- Content description for Image in the list item-->
     <string name="content_description_lists">Image View for list</string>
 
-    <!-- Food kake_da_hotel  [CHAR LIMIT=12] -->
+    <!-- List of Categories  [CHAR LIMIT=12] -->
     <string name="category_sights">Sights</string>
-    <string name="category_info">Info</string>
-    <string name="category_shops">Shops</string>
+    <string name="category_info">Traveler Checklist</string>
+    <string name="category_shops">Adventure</string>
     <string name="category_food">Food</string>
 
+    <!-- Food Category  [CHAR LIMIT=12] -->
     <!-- Food Kake Da Hotel  [CHAR LIMIT=20] -->
     <string name="food_kake_da_hotel">Kake Da Hotel</string>
     <string name="food_kake_da_hotel_description">Always busy and bustling with a constant stream of customers flowing in and checking out,
@@ -70,30 +71,10 @@
     <string name="food_casa_bella_vista_phone">+91 98154 44488</string>
     <string name="food_casa_bella_vista_schedule">Mon-Sun, 11:30AM–11:30PM</string>
 
-    <string name="info_internet_name">Internet</string>
-    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
-        It is very convenient when travelling since most of the hotels have limited internet access.
-        It works even in the subway!</string>
 
-    <!-- Adventure Siang Valley  [CHAR LIMIT=12] -->
-    <string name="info_konbini_name">Convenience stores</string>
-    <string name="info_konbini_description">Did you forget your toothbrush? Are you jet-lagged
-        and need a coffee fix at 4am?
-        \n\nYou need a konbini, a convenience store that is open 24/7. Here you will find from
-        food and drinks, to first necessity articles.
-        \n\nSome known konibini chains are:
-        \n- Lawson
-        \n- 7-Eleven
-        \n- FamilyMart
-        \n- Daily</string>
-    <string name="info_transport_name">Suica Prepaid Train Card</string>
-    <string name="info_transport_description">The Suica card is a prepaid smart card that
-        allows you to use most public transport (metro, trains, buses, monorail) in Japan.
-        The card is debited for every trip or purchase you make when you touch the card
-        to the reader.
-        \n\nThe Suica card was created by JR East, but can also be used throughout Japan
-        on the other prepaid card networks like Pasmo.</string>
 
+
+    <!-- Adventure Category  [CHAR LIMIT=12] -->
     <!-- Adventure Siang Valley  [CHAR LIMIT=12] -->
     <string name="siang_name">Siang Valley Trekking</string>
     <string name="siang_description">An exhilarating trek of 11 days in this mystique valley of Arunachal Pradesh is all about exploring and discovering the opulent nature of the state.</string>
@@ -161,15 +142,17 @@
     <string name="camping_phone">Contact local event adventures centres</string>
     <string name="camping_schedule">October to March is the best time</string>
 
-    <!-- Taj Mahal  [CHAR LIMIT=12] -->
+    <!-- Sights Category  [CHAR LIMIT=12] -->
+    <!-- Taj Mahal  [CHAR LIMIT=20] -->
     <string name="sight_taj_mahal_name">Taj Mahal</string>
-    <string name="sight_taj_mahal_description">Museum showcasing the work of the Japanese animation studio Studio Ghibli.</string>
+    <string name="sight_taj_mahal_description">The Taj Mahal is an ivory white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.
+        It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.</string>
     <string name="sight_taj_mahal_address">Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001</string>
     <string name="sight_taj_mahal_phone">Govt. of India Tourism Office 191, Mall Road, Agra Ph. +91 562 2226368</string>
     <string name="sight_taj_mahal_schedule">Daytime: 06:00 am to 06:30 pm, Nighttime: 08:30 pm to 12:30 am.</string>
     <string name="sight_taj_mahal_price">The cost is 650 rupees for Indians and 3,000 rupees for foreigners.</string>
 
-    <!-- Red Fort  [CHAR LIMIT=12] -->
+    <!-- Red Fort  [CHAR LIMIT=20] -->
     <string name="sight_red_fort_name">Red Fort</string>
     <string name="sight_red_fort_description">The Red Fort is a historical fortification in the national capital of New Delhi.
         Located in the center of the city. The Red Fort Complex was built as the palace fort of Shahjahanabad – the new capital of the fifth Mughal Emperor of India, Shah Jahan..</string>
@@ -178,7 +161,7 @@
     <string name="sight_red_fort_schedule">All days of the week except Monday, 9:30 AM - 4:30 PM</string>
     <string name="sight_red_fort_free">35 rupees per person for Indians and 500 rupees per person for foriegners</string>
 
-    <!-- Dudhsagar Falls  [CHAR LIMIT=12] -->
+    <!-- Dudhsagar Falls  [CHAR LIMIT=20] -->
     <string name="sight_goa_name">Dudhsagar Falls</string>
     <string name="sight_goa_description">3-streamed waterfall, named for its milky waters, with swimming pools surrounded by forest.</string>
     <string name="sight_goa_address">Sonaulim, Goa 403410</string>
@@ -186,18 +169,16 @@
     <string name="sight_goa_schedule">Calangute and Punjim: Wed, Sat and Sun, 6:30AM</string>
     <string name="sight_goa_free">2300 Rupees</string>
 
-
-    <!-- Manali  [CHAR LIMIT=12] -->
+    <!-- Manali  [CHAR LIMIT=20] -->
     <string name="sight_manali_name">Koishikawa Korakuen Garden</string>
-    <string name="sight_manali_description">Manali is a high-altitude Himalayan resort town in India’s northern Himachal Pradesh state.
-        Set on the Beas River, it’s a gateway for skiing in the Solang Valley and trekking in Parvati Valley.
-        It's also a jumping-off point for paragliding, rafting and mountaineering in the Pir Panjal mountains, home to 4,000m-high Rohtang Pass.</string>
+    <string name="sight_manali_description"> Manali is a high-altitude Himalayan resort town in India’s northern Himachal Pradesh state. Set on the Beas River, it’s a gateway for skiing in the Solang Valley and trekking in Parvati Valley.
+        Its also a jumpingoff point for paragliding, rafting and mountaineering in the Pir Panjal mountains, home to 4,000m high Rohtang Pass.</string>
     <string name="sight_manali_address">Manali, Himachal Pradesh</string>
     <string name="sight_manali_phone">Search on web and Contact locals</string>
     <string name="sight_manali_price">free</string>
     <string name="sight_manali_schedule">Opened 24 hours</string>
 
-    <!-- The Golden Temple  [CHAR LIMIT=12] -->
+    <!-- The Golden Temple  [CHAR LIMIT=20] -->
     <string name="sight_the_golden_temple_name">The Golden Temple</string>
     <string name="sight_the_golden_temple_description">The most sacred of Sikh shrines, the Golden Temple, is a major pilgrimage destination for devotees from around the world,
         as well as, an ever increasing popular tourist attraction.</string>
@@ -206,8 +187,7 @@
     <string name="sight_the_golden_temple_schedule">Opened 24 hours</string>
     <string name="sight_the_golden_temple_price">free</string>
 
-
-    <!-- Shimla  [CHAR LIMIT=12] -->
+    <!-- Shimla  [CHAR LIMIT=20] -->
     <string name="sight_shimla_name">Shimla</string>
     <string name="sight_shimla_description">Himachal Pradesh capital known for colonial architecture, Himalayan views and shopping on the mall.</string>
     <string name="sight_shimla_address">Located in the middle ranges of the Himalayas</string>
@@ -215,12 +195,51 @@
     <string name="sight_shimla_schedule">Always open</string>
     <string name="sight_shimla_price">free</string>
 
-
-    <!-- Chennai  [CHAR LIMIT=12] -->
+    <!-- Chennai  [CHAR LIMIT=20] -->
     <string name="sight_marina_name">Marina Beach</string>
     <string name="sight_marina_description">Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, </string>
     <string name="sight_marina_address">Chennai (Madras), Tamil Nadu, India</string>
     <string name="sight_marina_phone">Search on web and Contact locals</string>
     <string name="sight_marina_schedule">Open round the clock</string>
     <string name="sight_marina_price">free</string>
+
+    <!-- Travelers Checklist Category  [CHAR LIMIT=12] -->
+    <!-- Traveler's CheckList  [CHAR LIMIT=20] -->
+    <string name="checklist_healthcare_name">Healthcare</string>
+    <string name="healthcare_description">You can legally buy safe medicine, including prescription drugs, for very little money overseas. When in Asia. On location, it’s more like $1(72 rupees) for a 10-day supply.</string>
+
+    <!-- Traveler's CheckList Money  [CHAR LIMIT=20] -->
+    <string name="checklist_money_name">Money</string>
+    <string name="money_description">Take a lot of cash with you, and make sure the bills are new and have no writing on them.
+        If you go to a place that accepts credit cards, then you can just redeposit the cash when you get home. It is far worse to end up short of cash with no credit card option.</string>
+
+    <!-- Traveler's CheckList Taxis  [CHAR LIMIT=20] -->
+    <string name="checklist_taxi_name">Taxis</string>
+    <string name="taxi_description"> Hire a taxi whenever you are going because its more convinient in india by going through taxi rather than by sharing taxis.
+        \n\nNever assume that your taxi driver knows where your destination is. Double-check and get him to ask someone before you go if there’s any doubt.
+    \n\nThe universal rule of taxi haggling, for both driver and passenger, is that once both sides agree on a fare before setting off, neither side can reopen negotiations once you’re en route.
+        You should not try to get a better deal nor should you accept any increase in the fare from the driver after the journey has started.</string>
+
+    <!-- Traveler's CheckList Taxis  [CHAR LIMIT=20] -->
+    <string name="checklist_safety_name">Safety</string>
+    <string name="safety_description"> When it comes to visas (and all immigration issues), your experience will vary from place to place.
+        The rules are flexible in most places, and sometimes they will work in your favor and sometimes they will work against you.</string>
+
+    <!-- Traveler's CheckList Transport  [CHAR LIMIT=20] -->
+    <string name="checklist_transport_name">Planes, Trains, and Buses</string>
+    <string name="transport_description"> All plane tickets are changeable no matter what is written on them, and any fees for changing can be waived with the right airline agent.
+    \n\nUnless you can be very discreet, never take photos of people without asking. Don’t be surprised if they say no, because many cultures are not comfortable with strangers taking photos of them all the time. If they do say yes, you may find yourselves indebted to them for a gift or other favor.
+    \n\nNever touch members of the opposite sex. This includes sitting next to them on buses and trains—you’ll often be shuffled around to ensure that you only sit next to people of the same sex, although you’ll also usually be given the best seat.</string>
+
+    <!-- Traveler's CheckList Culture  [CHAR LIMIT=20] -->
+    <string name="checklist_culture_name">Culture</string>
+    <string name="culture_description"> The concept of personal space means very different things in different countries. You kind of have to get used to that.
+    \n\nRound-the-World tickets are the best bargains for extensive international travel.
+    \n\nIn some places, buses are better than trains for overland travel in other places, trains are better than buses.
+        Check out the options before you go to make the best decision for each place.</string>
+
+    <!-- Traveler's CheckList Culture  [CHAR LIMIT=20] -->
+    <string name="checklist_last_words_name">Last Words</string>
+    <string name="last_words_description"> Lastly, remember that there are not many “undiscovered” places left in the world. Focus on the places that are undiscovered to you and you won’t go wrong.
+    \n\nObviously, each place you go to will offer unique challenges, but following this list will get you off to a good start. Above all, don’t forget the cardinal rule of traveling pack light. You really don’t need all the extra stuff.</string>
 </resources>

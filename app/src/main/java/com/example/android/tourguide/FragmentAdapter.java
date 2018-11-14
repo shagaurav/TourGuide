@@ -10,7 +10,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
     private Context context;
 
     public FragmentAdapter(Context context, FragmentManager fm) {
-        super(fm);
+        super( fm );
         this.context = context;
     }
 
@@ -20,10 +20,10 @@ public class FragmentAdapter extends FragmentPagerAdapter {
             return new SightsFragment();
         } else if (position == 1) {
             return new FoodFragment();
-        } else if (position == 2){
-            return new ShopsFragment();
+        } else if (position == 2) {
+            return new AdventureFragment();
         } else {
-            return new InfoFragment();
+            return new CheckListFragment();
         }
     }
 
@@ -35,13 +35,13 @@ public class FragmentAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
-            return context.getString(R.string.category_sights);
+            return context.getString( R.string.category_sights );
         } else if (position == 1) {
-            return context.getString(R.string.category_food);
+            return context.getString( R.string.category_food );
         } else if (position == 2) {
-            return context.getString(R.string.category_shops);
+            return context.getString( R.string.category_shops );
         } else {
-            return context.getString(R.string.category_info);
+            return context.getString( R.string.category_info );
         }
     }
 }
