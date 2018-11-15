@@ -22,11 +22,13 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         final Location currentLocation = getItem( position );
         View listItemView = convertView;
 
+        // // Check if the current view is reused else inflate the view
         if (listItemView == null) {
             listItemView = LayoutInflater.from( getContext() ).inflate(
                     R.layout.list_item, parent, false );
         }
 
+        // Get the object located at position
         TextView nameLocationTextView = (TextView) listItemView.findViewById( R.id.nameTextView );
         nameLocationTextView.setText( currentLocation.getName() );
 
@@ -48,6 +50,7 @@ public class LocationAdapter extends ArrayAdapter<Location> {
 
         ImageView photoLocationImageView = (ImageView) listItemView.findViewById( R.id.photoImageView );
 
+        // Set the visibility of the Text and Image
         if (currentLocation.hasImage()) {
             photoLocationImageView.setImageResource( currentLocation.getImageResourceId() );
             photoLocationImageView.setVisibility( View.VISIBLE );

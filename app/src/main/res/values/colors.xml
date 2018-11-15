@@ -10,4 +10,7 @@
     <!-- Background color for app -->
     <color name="splash_background">#000000</color>
 
+    <!-- Background color for app -->
+    <color name="home_background">#eadcf1</color>
+
 </resources>

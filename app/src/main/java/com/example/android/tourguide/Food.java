@@ -8,6 +8,7 @@ public class Food {
 
     public static void initFoodsList(List<Location> list, Context context) {
 
+        // linked Text and images to sights list
         list.add( new Location(
                 context.getString( R.string.food_kake_da_hotel ),
                 context.getString( R.string.food_kake_da_hotel_description ),

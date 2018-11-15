@@ -9,6 +9,7 @@ public class CheckList {
 
     public static void initInfoList(List<Location> list, Context context) {
 
+        // linked Text and images to Checklist list
         list.add( new Location(
                 context.getString( R.string.checklist_healthcare_name ),
                 context.getString( R.string.healthcare_description ),

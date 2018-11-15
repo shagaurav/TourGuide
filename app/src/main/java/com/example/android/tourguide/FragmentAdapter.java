@@ -15,6 +15,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
     }
 
     @Override
+    //get the position of the item from the list
     public Fragment getItem(int position) {
         if (position == 0) {
             return new SightsFragment();
@@ -28,11 +29,13 @@ public class FragmentAdapter extends FragmentPagerAdapter {
     }
 
     @Override
+    // The getCount method returns the number of items in the collection.
     public int getCount() {
         return 4;
     }
 
     @Override
+    // Get the title of the page
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
             return context.getString( R.string.category_sights );

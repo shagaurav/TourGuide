@@ -11,6 +11,9 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * A simple {@link Fragment} subclass.
+ */
 public class AdventureFragment extends Fragment {
 
     @Nullable

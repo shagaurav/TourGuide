@@ -9,6 +9,7 @@ public class Adventure {
 
     public static void initShopsList(List<Location> list, Context context) {
 
+        // linked Text and images to Adventure list
         list.add( new Location(
                 context.getString( R.string.siang_name ),
                 context.getString( R.string.siang_description ),

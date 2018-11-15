@@ -8,6 +8,7 @@ import java.util.List;
 public class Sights {
     public static void initSightsList(List<Location> list, Context context) {
 
+        // linked Text and images to sights list
         list.add( new Location(
                 context.getString( R.string.sight_taj_mahal_name ),
                 context.getString( R.string.sight_taj_mahal_description ),

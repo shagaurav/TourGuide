@@ -77,6 +77,7 @@ public class Location {
     }
 
     @Override
+    // returns the string representation of the object
     public String toString() {
         String output = getName() + "\n" +
                 getDescription() + "\n" +
